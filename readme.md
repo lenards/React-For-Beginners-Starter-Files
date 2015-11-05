@@ -42,6 +42,6 @@ Restart your dev tools or your chrome browser entirely
 
 ## What is your terminal theme?
 
-It's ZSH + Cobat2 for iTerm2. I did a whole video series on it → [CommandLinePowerUser.com](http://commandlinepoweruser.com/)
+It's ZSH + Cobalt2 for iTerm2. I did a whole video series on it → [CommandLinePowerUser.com](http://commandlinepoweruser.com/)
 
 
